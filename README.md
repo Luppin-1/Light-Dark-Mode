@@ -1,6 +1,6 @@
 # Light-Dark-Mode 🌙
 
-A simple light/dark mode toggle built with vanilla HTML, CSS & JavaScript.
+A simple light/dark mode toggle built with HTML, CSS & JavaScript.
 
 ## Features
 - Toggle between light and dark theme
@@ -9,7 +9,7 @@ A simple light/dark mode toggle built with vanilla HTML, CSS & JavaScript.
 ## Technologies
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## How to run
 Open `ldm.html` in your browser.
