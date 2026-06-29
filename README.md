@@ -12,4 +12,4 @@ A simple light/dark mode toggle built with HTML, CSS & JavaScript.
 - JavaScript 
 
 ## How to run
-Open `ldm.html` in your browser.
+Open https://luppin-1.github.io/Light-Dark-Mode/in your browser.
