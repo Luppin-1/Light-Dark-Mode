@@ -1,0 +1,47 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    transition: 1s;
+
+}
+.btn-light{
+    padding: 20px;
+    font-size: 60px;
+    background-color: rgba(255, 0, 0, 0.802);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: .2s;
+    animation: change 1s;
+    cursor: pointer;
+}
+.btn-light:hover{
+    color: rgb(0, 0, 0);
+}
+.btn-dark{
+    padding: 20px;
+    font-size: 60px;
+    background-color: rgb(0, 204, 255);;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    animation: change 1s;
+    transition: .2s;
+    cursor: pointer;
+
+
+
+}
+.btn-dark:hover{
+    color: rgb(255, 255, 255);
+}
+
+@keyframes change{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
